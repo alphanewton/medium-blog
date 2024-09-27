@@ -4,10 +4,6 @@ compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
 #PRISMA ACCELERATE CONNECTION POOL OF NEON DB POSTGRES
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMTczNGVhZTgtM2VmZC00YjViLTliMmEtM2JjY2QxNTJlN2M2IiwidGVuYW50X2lkIjoiNjFjYTU2ZTJjNTMxYmQ4MmFlOGYzNjMxODc3OTYxNGJhOTBjZWU2ZmU2YzEwODIyNDc5NmRlZTEyYzlmZGE0OSIsImludGVybmFsX3NlY3JldCI6IjQ5ZDAwNzc4LTdmNjgtNDFjMy1hZDQxLTYzZjIyMjk3Y2Q5YiJ9.NgN7jNoF3-n5nyjyTczjGk99WrZICUxf7nD7JII3FUY"
-DATABASE_URL=postgresql://test_owner:etq1w8XPZNsm@ep-soft-meadow-a2kfh6e2.eu-central-1.aws.neon.tech/test?sslmode=require
-
-JWT_SECRET = "newton1secret"
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
